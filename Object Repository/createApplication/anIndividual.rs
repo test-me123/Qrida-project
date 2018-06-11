@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>anIndividual</name>
+   <tag></tag>
+   <elementGuidId>cd623ba2-68e3-4e07-a939-9791728895a1</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>applicantType</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-valid ng-dirty</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/apply-application[1]/sidemenu[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-10 page-wrapper&quot;]/div[@class=&quot;page-content&quot;]/accordion[@class=&quot;panel-group schemes-main&quot;]/accordion-group[@class=&quot;panel panel-open&quot;]/div[@class=&quot;panel card panel-default&quot;]/div[@class=&quot;panel-collapse collapse in show&quot;]/div[@class=&quot;panel-body card-block card-body&quot;]/form[@class=&quot;ng-untouched ng-valid ng-dirty&quot;]/form-field[1]/div[@class=&quot;form-group&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-9&quot;]/p[@class=&quot;radio&quot;]/label[1]/input[@class=&quot;ng-untouched ng-valid ng-dirty&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

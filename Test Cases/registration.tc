@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69702ab0-9e4f-410a-88af-1539539c43dd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ef28ca4a-84d6-4d1a-bc0d-d8bf5a2bf71a</id>
+      <masked>false</masked>
+      <name>givenNameReg</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b430218-4571-4596-b7f2-161de820403b</id>
+      <masked>false</masked>
+      <name>surNameReg</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cc628aa7-9241-4883-a6e6-387a74f2ec0e</id>
+      <masked>false</masked>
+      <name>emailReg</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c34e090-8408-44e2-a2dd-1aacba1dcd03</id>
+      <masked>false</masked>
+      <name>passwordReg</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7cd2eb36-0416-4a68-9004-310237276a58</id>
+      <masked>false</masked>
+      <name>confirmReg</name>
+   </variable>
+</TestCaseEntity>

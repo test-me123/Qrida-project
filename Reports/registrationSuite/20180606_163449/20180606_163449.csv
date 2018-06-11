@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+registrationSuite,Firefox 60.0,,2018-06-06 16:34:51,2018-06-06 16:35:37,45.893s,PASSED
+,,,,,,
+Test Cases/registration,Firefox 60.0,,2018-06-06 16:34:52,2018-06-06 16:35:20,28.031s,PASSED
+com.login.qrida.loginQrida.openBrowser,Firefox 60.0,,2018-06-06 16:34:52,2018-06-06 16:35:19,26.264s,PASSED
+com.registration.qrida.registrationLink.registration,Firefox 60.0,,2018-06-06 16:35:19,2018-06-06 16:35:20,1.412s,PASSED
+,,,,,,
+Test Cases/registration,Firefox 60.0,,2018-06-06 16:35:20,2018-06-06 16:35:37,16.828s,PASSED
+com.login.qrida.loginQrida.openBrowser,Firefox 60.0,,2018-06-06 16:35:20,2018-06-06 16:35:35,14.978s,PASSED
+com.registration.qrida.registrationLink.registration,Firefox 60.0,,2018-06-06 16:35:35,2018-06-06 16:35:37,1.824s,PASSED

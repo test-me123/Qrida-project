@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>registrationSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-06-06T16:36:18</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>87be1791-942c-4368-ba13-deffef0f40fc</testSuiteGuid>
+   <testCaseLink>
+      <guid>0e9fa679-a26a-4b7b-b8ce-1246ee7a3b42</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/registration</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b233d51c-8713-4879-9ef1-5089ec64f659</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/registrationData</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>b233d51c-8713-4879-9ef1-5089ec64f659</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>givenNameReg</value>
+         <variableId>ef28ca4a-84d6-4d1a-bc0d-d8bf5a2bf71a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b233d51c-8713-4879-9ef1-5089ec64f659</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>surNameReg</value>
+         <variableId>5b430218-4571-4596-b7f2-161de820403b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b233d51c-8713-4879-9ef1-5089ec64f659</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>emailReg</value>
+         <variableId>cc628aa7-9241-4883-a6e6-387a74f2ec0e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b233d51c-8713-4879-9ef1-5089ec64f659</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>passwordReg</value>
+         <variableId>2c34e090-8408-44e2-a2dd-1aacba1dcd03</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b233d51c-8713-4879-9ef1-5089ec64f659</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>confirmReg</value>
+         <variableId>7cd2eb36-0416-4a68-9004-310237276a58</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
