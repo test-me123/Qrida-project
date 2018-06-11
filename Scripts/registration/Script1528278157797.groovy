@@ -22,14 +22,4 @@ import internal.GlobalVariable as GlobalVariable
 CustomKeywords.'com.login.qrida.loginQrida.openBrowser'()
 CustomKeywords.'com.registration.qrida.registrationLink.registration'(givenNameReg, surNameReg, emailReg, passwordReg, confirmReg)
 
-CustomKeywords.'com.login.qrida.loginQrida.openBrowser'()
-CustomKeywords.'com.registration.qrida.registrationLink.registration'(givenNameReg, surNameReg, emailReg, passwordReg, confirmReg)
 
-CustomKeywords.'com.login.qrida.loginQrida.openBrowser'()
-CustomKeywords.'com.registration.qrida.registrationLink.registration'(givenNameReg, surNameReg, emailReg, passwordReg, confirmReg)
-
-CustomKeywords.'com.login.qrida.loginQrida.openBrowser'()
-CustomKeywords.'com.registration.qrida.registrationLink.registration'(givenNameReg, surNameReg, emailReg, passwordReg, confirmReg)
-
-CustomKeywords.'com.login.qrida.loginQrida.openBrowser'()
-CustomKeywords.'com.registration.qrida.registrationLink.registration'(givenNameReg, surNameReg, emailReg, passwordReg, confirmReg)
