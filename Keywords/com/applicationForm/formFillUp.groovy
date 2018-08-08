@@ -38,7 +38,7 @@ public class formFillUp {
 	public void section1() {
 		WebUI.selectOptionByLabel(findTestObject('Object Repository/createApplication/applicantTitle'), 'Mrs', false)
 		//WebUI.verifyOptionPresentByLabel(findTestObject('Object Repository/createApplication/applicantTitle'), 'Mrs', false, 0, FailureHandling.STOP_ON_FAILURE)
-		WebUI.verifyOptionPresentByLabel(findTestObject('Object Repository/createApplication/applicantTitle'), 'Mrs', true, 5)
+		//WebUI.verifyOptionPresentByLabel(findTestObject('Object Repository/createApplication/applicantTitle'), 'Mrs', true, 5)
 		println('---------------------------------------------------------')
 		WebUI.setText(findTestObject('Object Repository/createApplication/firstName'), 'test')
 		WebUI.setText(findTestObject('Object Repository/createApplication/middleName'), 'middle name')
@@ -49,7 +49,7 @@ public class formFillUp {
 		WebUI.selectOptionByLabel(findTestObject('Object Repository/createApplication/permanentResident'), 'Yes', false)
 		WebUI.selectOptionByLabel(findTestObject('Object Repository/createApplication/familyTax'),'Yes', false)
 		//upload
-		WebUI.uploadFile(findTestObject('Object Repository/createApplication/Page_Portal/span_Upload'), 'C:\\Users\\Sai Rahul\\Downloads\\User_ Rahul_2018-05-06_2018-05-12.csv')
+		//WebUI.uploadFile(findTestObject('Object Repository/createApplication/Page_Portal/span_Upload'), 'C:\\Users\\Sai Rahul\\Downloads\\User_ Rahul_2018-05-06_2018-05-12.csv')
 		WebUI.selectOptionByLabel(findTestObject('Object Repository/createApplication/incomeEarner'), 'Yes', false)
 	}
 
@@ -140,6 +140,7 @@ public class formFillUp {
 		WebUI.setText(findTestObject('Object Repository/applicantIdenti/step3/otherCreditors'), '21')
 		WebUI.click(findTestObject('Object Repository/applicantIdenti/step3/button_Next'))
 	}
-
-	
 }
+
+
+

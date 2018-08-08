@@ -5,6 +5,7 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 import java.awt.event.KeyEvent
 
+import org.eclipse.persistence.internal.jpa.parsing.jpql.antlr.JPQLParser.func_scope
 import org.openqa.selenium.By
 import org.openqa.selenium.Keys
 import org.openqa.selenium.WebDriver
@@ -30,7 +31,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
 
-CustomKeywords.'com.login.qrida.loginQrida.loginApplication'('http://qrida.dev-fsit.com/login', 'rahul.sai@test.com', 'Sai@Rahul1234')
+CustomKeywords.'com.login.qrida.loginQrida.loginApplication'('http://192.168.1.87:9000', 'bhuvaneshwaran.r@fortunesoftit.com', 'Bhuvanesh@123#')
 for(i=0;i<1;i++)
 {
 WebUI.click(findTestObject('Object Repository/delete/button_Delete'))
@@ -45,4 +46,4 @@ CustomKeywords.'com.applicationForm.formFillUp.section2b'()
 CustomKeywords.'com.applicationForm.formFillUp.purchaseDetails'()
 CustomKeywords.'com.applicationForm.formFillUp.yourFinance'()
 
-
+	
